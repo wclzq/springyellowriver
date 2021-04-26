@@ -185,7 +185,7 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.5</version>
+            <version>2.7</version>
         </dependency>
         <!-- Spring 整合Shiro需要的依赖 -->
         <dependency>
